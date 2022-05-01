@@ -1,5 +1,7 @@
 # TRINKERR INTERVIEW FRONTEND
 
+Live at https://cocky-shockley-0aa294.netlify.app/
+
 ## Background
 
 If you are familiar to trading, you might have seen the watchlist feature. If not, then basically a watchlist is a place where you can see all your favourite stocks at one place and you can see the real time prices of it and execute the buy and sell actions on it.
