@@ -1,6 +1,6 @@
-# TRINKERR INTERVIEW FRONTEND
+# INDIAN STOCK SEARCH
 
-Live at https://cocky-shockley-0aa294.netlify.app/
+Live at [demo](https://cocky-shockley-0aa294.netlify.app/)
 
 ## Background
 
