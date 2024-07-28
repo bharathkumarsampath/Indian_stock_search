@@ -1,6 +1,6 @@
 # INDIAN STOCK SEARCH
 
-Live at [demo](https://cocky-shockley-0aa294.netlify.app/)
+Live at [demo](https://indian-stock-ticker-search.netlify.app/)
 
 ## Background
 
