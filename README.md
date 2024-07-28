@@ -1,4 +1,4 @@
-# INDIAN STOCK SEARCH
+# INDIAN STOCK TICKER SEARCH
 
 Live at [demo](https://indian-stock-ticker-search.netlify.app/)
 
